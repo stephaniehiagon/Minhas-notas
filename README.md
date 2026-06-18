@@ -1,2 +1,2 @@
 # Minhas-notas
-Aqui vou documentar ferramentas, comando e práticas que realizou durante o Mulher Digital
+Aqui vou documentar ferramentas, comandos e práticas que realizo durante o Mulher Digital
